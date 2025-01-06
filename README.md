@@ -28,5 +28,5 @@
 
   If you get any error you can run these code directly :
   
-  $env:NODE_OPTIONS="--openssl-legacy-provider"
-  npm start
+  `$env:NODE_OPTIONS="--openssl-legacy-provider"`<br>
+  `npm start`
