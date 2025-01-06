@@ -16,7 +16,7 @@
 
 ---
 ### Demo  ##
-![Demo Expense Tracker application](./demo/demo.gif)
+![Demo Expense Tracker application](./demo/demo.gif.mp4)
 
 ---
 
