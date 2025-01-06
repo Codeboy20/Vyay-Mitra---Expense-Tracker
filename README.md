@@ -15,10 +15,35 @@
 </p>
 
 ---
+
+## Technologies Used ##
+
+- JavaScript
+
+- CSS
+
+- React
+
+- Material-UI
+
+- Node.js
+
+---
 ### Demo  ##
 ![Demo Expense Tracker application](./demo/demo.gif.gif)
 
 ---
+
+## Future Enhancements ##
+
+- Addition of a Speech Recognition API for easy use without any typing.
+
+- Integration with cloud services for data backup and synchronization across devices.
+
+- Implementation of user authentication for secure access.
+
+- Addition of multiple currency support for global users.
+
 
 ### Getting started ##
   
