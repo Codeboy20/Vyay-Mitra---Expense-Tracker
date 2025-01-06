@@ -2,7 +2,7 @@
   <a href="" rel="noopener">
  <img width=100px src="https://img-premium.flaticon.com/png/512/2942/2942269.png?token=exp=1622321420~hmac=4864c7ee60fb37512bdbb265604717a0"</a>
 </p>
-<h1 align = 'center'>   Spendee - Track expenses with your voice</h1>
+<h1 align = 'center'>   Vyay Mitra - Keep Records of Your Expenses.</h1>
 
 ![](https://img.shields.io/badge/Made_with-Reactjs-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Styled_with-Material_ui-007899?style=for-the-badge&logo=Material-ui)
@@ -11,7 +11,7 @@
 
 ### Description  ##
 <p>
-  Spendee is a simple expense tracker app which supports speech recognition for quick input. You can enter your incomes/expenses with your voice.i.e no need to type.It will help you to note,delete and categorize your incomes/expenses for easy budget management.
+  Vyay Mitra is a simple expense tracker app which supports Tracking of your day to day Expenses. You can enter your incomes/expenses.It will help you to note,delete and categorize your incomes/expenses for easy budget management. It also has analyze charts for both income and expenses.
 </p>
 
 ---
@@ -20,13 +20,13 @@
 
 ---
 
-### Deployed expense tracker react app ##
-https://speech-based-expense-tracker.netlify.app/
-
----
-
 ### Getting started ##
   
   Clone the repository and run `npm i` to install all the dependencies<br>
   Run `npm start` to start the react app<br>
   Navigate to `localhost:3000` on your browser
+
+  If you get any error you can run these code directly :
+  
+  $env:NODE_OPTIONS="--openssl-legacy-provider"
+  npm start
